@@ -1,0 +1,13 @@
+[general]
+import = [
+    "~/.config/alacritty/themes/themes/ayu_mirage.toml"
+]
+
+[window]
+decorations = "Full"
+#startup_mode = "Fullscreen"
+padding = { x = 12, y = 12 }
+
+[font]
+normal = { family = "MesloLGS Nerd Font", style = "Regular" }
+size = 16.0
